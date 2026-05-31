@@ -1,0 +1,1364 @@
+{
+  "file_name": "330109-4880941.pdf",
+  "brand": "TREMFYA",
+  "brand_attributes": {
+    "filename": "330109-4880941.pdf",
+    "brand": "TREMFYA",
+    "indication": "Plaque psoriasis (PsO)",
+    "age": ">=18",
+    "step_therapy_requirements": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+    "number_of_steps_brands": "2",
+    "number_of_steps_generic": "2",
+    "step_through_phototherapy": "Yes",
+    "tb_test_required": "Yes",
+    "initial_auth_duration": "Unspecified",
+    "reauthorization_duration": "12",
+    "reauthorization_required": "Yes",
+    "reauthorization_requirements": "Chart notes or medical record documentation of decreased body surface area (BSA) affected and/or improvement in signs and symptoms.",
+    "specialist_types": "dermatologist; rheumatologist",
+    "quantity_limits": "1 syringe/injector per 56 days",
+    "access_score": "NA"
+  },
+  "extraction": {
+    "filename": "330109-4880941.pdf",
+    "detected_brands": [
+      "TREMFYA"
+    ],
+    "brand_attributes": [
+      {
+        "filename": "330109-4880941.pdf",
+        "brand": "TREMFYA",
+        "indication": "Plaque psoriasis (PsO)",
+        "age": ">=18",
+        "step_therapy_requirements": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+        "number_of_steps_brands": "2",
+        "number_of_steps_generic": "2",
+        "step_through_phototherapy": "Yes",
+        "tb_test_required": "Yes",
+        "initial_auth_duration": "Unspecified",
+        "reauthorization_duration": "12",
+        "reauthorization_required": "Yes",
+        "reauthorization_requirements": "Chart notes or medical record documentation of decreased body surface area (BSA) affected and/or improvement in signs and symptoms.",
+        "specialist_types": "dermatologist; rheumatologist",
+        "quantity_limits": "1 syringe/injector per 56 days",
+        "access_score": "NA"
+      }
+    ]
+  },
+  "decision_context": {
+    "age": {
+      "value": ">=18",
+      "llm_evidence": "[ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline]",
+      "llm_reasoning": "The policy states that crucial body areas are affected and at least 10% of body surface area (BSA) is affected, implying that the therapy is approved for adults (>=18) based on the FDA-labelled age.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        },
+        {
+          "chunk_id": "ld-s0048-c00048",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 325,
+          "end_line": 345,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>7 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n2. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 4: Guidelines of care for the management and treatment of psoriasis with traditional systemic agents. J Am Acad Dermatol. 2009;61:451-485. \n\n3. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 6: Guidelines of care for the treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J Am Acad Dermatol. 2011;65(1):137-174. \n\n4. Reich K, Armstrong, AW, Foley P, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, doubleblind, placebo- and active comparator–controlled VOYAGE 2 trial. Am J Clin Dermatol. 2017;76(3):418-431. \n\n5. Blauvelt A, Papp KA, Griffiths CEM, et al. Efficacy and safety of guselkumab, an anti-interleukin23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. Am J Clin Dermatol. 2017;76(3):405-417. \n\n6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html."
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        }
+      ]
+    },
+    "step_therapy_requirements": {
+      "value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+      "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]] [ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:] [ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline] [ld-s0019-c00019 | page 1 | lines 107-112 | tags: approval, drug_or_therapy, indication | title: Plaque psoriasis (PsO)[1-6,10]]",
+      "llm_reasoning": "The policy requires a documented negative TB test within 12 months of initiating therapy, cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication, and is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Additionally, the policy requires an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Furthermore, the policy requires an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration, an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine), enthesitis, or severe disease.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        },
+        {
+          "chunk_id": "ld-s0023-c00023",
+          "title": "Psoriatic arthritis (PsA)[1,8-10]",
+          "start_line": 136,
+          "end_line": 151,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+        },
+        {
+          "chunk_id": "ld-s0019-c00019",
+          "title": "Plaque psoriasis (PsO)[1-6,10]",
+          "start_line": 107,
+          "end_line": 112,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        }
+      ]
+    },
+    "number_of_steps_brands": {
+      "value": "2",
+      "llm_evidence": "[ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:]\n## **Documentation for all indications:** The patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: - A preferred ustekinumab product - TWO additional preferred products - A preferred adalimumab product OR Enbrel - Rinvoq - Otezla",
+      "llm_reasoning": "The policy requires documentation for approval and specifies three preferred products that the patient is unable to take due to a trial and inadequate treatment response or intolerance, or a contraindication. The target brand, TREMFYA, is a preferred ustekinumab product, and the policy requires two additional preferred products. Therefore, the number of branded steps required is 2.",
+      "dependency_context": {
+        "source_parameter": "step_therapy_requirements",
+        "source_value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+        "source_evidence": {
+          "value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+          "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]] [ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:] [ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline] [ld-s0019-c00019 | page 1 | lines 107-112 | tags: approval, drug_or_therapy, indication | title: Plaque psoriasis (PsO)[1-6,10]]",
+          "llm_reasoning": "The policy requires a documented negative TB test within 12 months of initiating therapy, cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication, and is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Additionally, the policy requires an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Furthermore, the policy requires an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration, an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine), enthesitis, or severe disease.",
+          "dependency_context": {},
+          "retrieved_context": [
+            {
+              "chunk_id": "ld-s0037-c00037",
+              "title": "Other[1,7]",
+              "start_line": 254,
+              "end_line": 261,
+              "page_start": 4,
+              "page_end": 4,
+              "tags": [
+                "drug_or_therapy",
+                "safety",
+                "universal"
+              ],
+              "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+            },
+            {
+              "chunk_id": "ld-s0005-c00005",
+              "title": "Documentation for all indications:",
+              "start_line": 36,
+              "end_line": 49,
+              "page_start": null,
+              "page_end": null,
+              "tags": [
+                "drug_or_therapy",
+                "universal"
+              ],
+              "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+            },
+            {
+              "chunk_id": "ld-s0022-c00022",
+              "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+              "start_line": 117,
+              "end_line": 135,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "brand",
+                "drug_or_therapy"
+              ],
+              "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+            },
+            {
+              "chunk_id": "ld-s0023-c00023",
+              "title": "Psoriatic arthritis (PsA)[1,8-10]",
+              "start_line": 136,
+              "end_line": 151,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+            },
+            {
+              "chunk_id": "ld-s0019-c00019",
+              "title": "Plaque psoriasis (PsO)[1-6,10]",
+              "start_line": 107,
+              "end_line": 112,
+              "page_start": 1,
+              "page_end": 1,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+            },
+            {
+              "chunk_id": "ld-s0044-c00044",
+              "title": "Quantity Level Limit:",
+              "start_line": 305,
+              "end_line": 316,
+              "page_start": 5,
+              "page_end": 5,
+              "tags": [
+                "brand",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+            }
+          ]
+        }
+      },
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        },
+        {
+          "chunk_id": "ld-s0023-c00023",
+          "title": "Psoriatic arthritis (PsA)[1,8-10]",
+          "start_line": 136,
+          "end_line": 151,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+        },
+        {
+          "chunk_id": "ld-s0019-c00019",
+          "title": "Plaque psoriasis (PsO)[1-6,10]",
+          "start_line": 107,
+          "end_line": 112,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        }
+      ]
+    },
+    "number_of_steps_generic": {
+      "value": "2",
+      "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]] and [ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:]",
+      "llm_reasoning": "The policy requires a documented negative tuberculosis (TB) test within 12 months of initiating therapy and the patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication.",
+      "dependency_context": {
+        "source_parameter": "step_therapy_requirements",
+        "source_value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+        "source_evidence": {
+          "value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+          "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]] [ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:] [ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline] [ld-s0019-c00019 | page 1 | lines 107-112 | tags: approval, drug_or_therapy, indication | title: Plaque psoriasis (PsO)[1-6,10]]",
+          "llm_reasoning": "The policy requires a documented negative TB test within 12 months of initiating therapy, cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication, and is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Additionally, the policy requires an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Furthermore, the policy requires an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration, an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine), enthesitis, or severe disease.",
+          "dependency_context": {},
+          "retrieved_context": [
+            {
+              "chunk_id": "ld-s0037-c00037",
+              "title": "Other[1,7]",
+              "start_line": 254,
+              "end_line": 261,
+              "page_start": 4,
+              "page_end": 4,
+              "tags": [
+                "drug_or_therapy",
+                "safety",
+                "universal"
+              ],
+              "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+            },
+            {
+              "chunk_id": "ld-s0005-c00005",
+              "title": "Documentation for all indications:",
+              "start_line": 36,
+              "end_line": 49,
+              "page_start": null,
+              "page_end": null,
+              "tags": [
+                "drug_or_therapy",
+                "universal"
+              ],
+              "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+            },
+            {
+              "chunk_id": "ld-s0022-c00022",
+              "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+              "start_line": 117,
+              "end_line": 135,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "brand",
+                "drug_or_therapy"
+              ],
+              "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+            },
+            {
+              "chunk_id": "ld-s0023-c00023",
+              "title": "Psoriatic arthritis (PsA)[1,8-10]",
+              "start_line": 136,
+              "end_line": 151,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+            },
+            {
+              "chunk_id": "ld-s0019-c00019",
+              "title": "Plaque psoriasis (PsO)[1-6,10]",
+              "start_line": 107,
+              "end_line": 112,
+              "page_start": 1,
+              "page_end": 1,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+            },
+            {
+              "chunk_id": "ld-s0044-c00044",
+              "title": "Quantity Level Limit:",
+              "start_line": 305,
+              "end_line": 316,
+              "page_start": 5,
+              "page_end": 5,
+              "tags": [
+                "brand",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+            }
+          ]
+        }
+      },
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        },
+        {
+          "chunk_id": "ld-s0023-c00023",
+          "title": "Psoriatic arthritis (PsA)[1,8-10]",
+          "start_line": 136,
+          "end_line": 151,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+        },
+        {
+          "chunk_id": "ld-s0019-c00019",
+          "title": "Plaque psoriasis (PsO)[1-6,10]",
+          "start_line": 107,
+          "end_line": 112,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        }
+      ]
+    },
+    "step_through_phototherapy": {
+      "value": "Yes",
+      "llm_evidence": "[ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline]",
+      "llm_reasoning": "The policy requires the patient to have had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin for the target indication of Plaque psoriasis (PsO).",
+      "dependency_context": {
+        "source_parameter": "step_therapy_requirements",
+        "source_value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+        "source_evidence": {
+          "value": "Member has had a documented negative tuberculosis (TB) test within 12 months of initiating therapy. Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication. Member is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). Member has enthesitis. Member has severe disease.",
+          "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]] [ld-s0005-c00005 | page ? | lines 36-49 | tags: drug_or_therapy, universal | title: Documentation for all indications:] [ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline] [ld-s0019-c00019 | page 1 | lines 107-112 | tags: approval, drug_or_therapy, indication | title: Plaque psoriasis (PsO)[1-6,10]]",
+          "llm_reasoning": "The policy requires a documented negative TB test within 12 months of initiating therapy, cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication, and is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Additionally, the policy requires an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin, or a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin. Furthermore, the policy requires an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration, an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine), enthesitis, or severe disease.",
+          "dependency_context": {},
+          "retrieved_context": [
+            {
+              "chunk_id": "ld-s0037-c00037",
+              "title": "Other[1,7]",
+              "start_line": 254,
+              "end_line": 261,
+              "page_start": 4,
+              "page_end": 4,
+              "tags": [
+                "drug_or_therapy",
+                "safety",
+                "universal"
+              ],
+              "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+            },
+            {
+              "chunk_id": "ld-s0005-c00005",
+              "title": "Documentation for all indications:",
+              "start_line": 36,
+              "end_line": 49,
+              "page_start": null,
+              "page_end": null,
+              "tags": [
+                "drug_or_therapy",
+                "universal"
+              ],
+              "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+            },
+            {
+              "chunk_id": "ld-s0022-c00022",
+              "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+              "start_line": 117,
+              "end_line": 135,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "brand",
+                "drug_or_therapy"
+              ],
+              "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+            },
+            {
+              "chunk_id": "ld-s0023-c00023",
+              "title": "Psoriatic arthritis (PsA)[1,8-10]",
+              "start_line": 136,
+              "end_line": 151,
+              "page_start": 2,
+              "page_end": 2,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+            },
+            {
+              "chunk_id": "ld-s0019-c00019",
+              "title": "Plaque psoriasis (PsO)[1-6,10]",
+              "start_line": 107,
+              "end_line": 112,
+              "page_start": 1,
+              "page_end": 1,
+              "tags": [
+                "approval",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+            },
+            {
+              "chunk_id": "ld-s0044-c00044",
+              "title": "Quantity Level Limit:",
+              "start_line": 305,
+              "end_line": 316,
+              "page_start": 5,
+              "page_end": 5,
+              "tags": [
+                "brand",
+                "drug_or_therapy",
+                "indication"
+              ],
+              "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+            }
+          ]
+        }
+      },
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        },
+        {
+          "chunk_id": "ld-s0023-c00023",
+          "title": "Psoriatic arthritis (PsA)[1,8-10]",
+          "start_line": 136,
+          "end_line": 151,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Psoriatic arthritis (PsA)[1,8-10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Rinvoq, Otezla) indicated for active psoriatic arthritis. \n\nAuthorization of 12 months may be granted for adult members for treatment of active psoriatic arthritis when either of the following criteria is met: \n\n- Member has mild to moderate disease and meets any of the following criteria: \n\n   - Member has had an inadequate response to methotrexate, leflunomide, or another conventional synthetic drug (e.g., sulfasalazine) administered at an adequate dose and duration. \n\n   - Member has an intolerance or contraindication to methotrexate or leflunomide (see Appendix), or another conventional synthetic drug (e.g., sulfasalazine). \n\n   - Member has enthesitis. \n\n- Member has severe disease."
+        },
+        {
+          "chunk_id": "ld-s0019-c00019",
+          "title": "Plaque psoriasis (PsO)[1-6,10]",
+          "start_line": 107,
+          "end_line": 112,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "approval",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## Plaque psoriasis (PsO)[1-6,10] \n\nAuthorization of 12 months may be granted for adult members who have previously received a biologic or targeted synthetic drug (e.g., Sotyktu, Otezla) indicated for the treatment of moderate to severe plaque psoriasis. \n\nAuthorization of 12 months may be granted for adult members for treatment of moderate to severe plaque psoriasis when any of the following criteria is met:"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        },
+        {
+          "chunk_id": "ld-s0002-c00002",
+          "title": "Description:",
+          "start_line": 16,
+          "end_line": 29,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Description:** \n\nFDA-Approved Indications \n\n- Treatment of adult patients with moderate to severe plaque psoriasis (PsO) who are candidates for systemic therapy or phototherapy \n\n- Treatment of adult patients with active psoriatic arthritis (PsA) \n\n- Treatment of moderately to severely active ulcerative colitis (UC) in adults \n\n- Treatment of moderately to severely active Crohn’s disease (CD) in adults \n\nAll other indications are considered experimental/investigational and not medically necessary."
+        }
+      ]
+    },
+    "tb_test_required": {
+      "value": "Yes",
+      "llm_evidence": "[ld-s0037-c00037 | page 4 | lines 254-261 | tags: drug_or_therapy, safety, universal | title: Other[1,7]]",
+      "llm_reasoning": "TB testing is required for all indications, including PsO/Psoriasis, as per the policy requirement for a documented negative TB test within 12 months of initiating therapy.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0048-c00048",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 325,
+          "end_line": 345,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>7 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n2. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 4: Guidelines of care for the management and treatment of psoriasis with traditional systemic agents. J Am Acad Dermatol. 2009;61:451-485. \n\n3. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 6: Guidelines of care for the treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J Am Acad Dermatol. 2011;65(1):137-174. \n\n4. Reich K, Armstrong, AW, Foley P, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, doubleblind, placebo- and active comparator–controlled VOYAGE 2 trial. Am J Clin Dermatol. 2017;76(3):418-431. \n\n5. Blauvelt A, Papp KA, Griffiths CEM, et al. Efficacy and safety of guselkumab, an anti-interleukin23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. Am J Clin Dermatol. 2017;76(3):405-417. \n\n6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html."
+        },
+        {
+          "chunk_id": "ld-s0035-c00035",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 219,
+          "end_line": 233,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "brand",
+            "indication"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>5 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Fecal calprotectin (FC) \n\n- Appearance of the mucosa on endoscopy, computed tomography enterography (CTE), magnetic resonance enterography (MRE), or intestinal ultrasound \n\n- Improvement on a disease activity scoring tool (e.g., Ulcerative Colitis Endoscopic Index of Severity [UCEIS], Mayo score)"
+        },
+        {
+          "chunk_id": "ld-s0048-c00049",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 342,
+          "end_line": 363,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html. \n\n8. Gossec L, Baraliakos X, Kerschbaumer A, et al. European League Against Rheumatism (EULAR) recommendations for the management of psoriatic arthritis with pharmacological therapies: 2019 update. Ann Rheum Dis. 2020;79(6):700-712. \n\n9. Singh JA, Guyatt G, Ogdie A, et al. 2018 American College of Rheumatology/National Psoriasis Foundation Guideline for the Treatment of Psoriatic Arthritis. Arthritis Rheum. 2018;71:5-32. \n\n10. Coates LC, Soriano ER, Corp N, et al. Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA): updated treatment recommendations for psoriatic arthritis 2021. Nat Rev Rheumatol. 2022;18(8):465-479. \n\n11. Menter A, Gelfand JM, Connor C, et al. Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management of psoriasis with systemic nonbiologic therapies. J Am Acad Dermatol. 2020;82(6):1445-1486. \n\n12. Talley NJ, Abreu MT, Achkar J, et al. An evidence-based systematic review on medical therapies for inflammatory bowel disease. Am J Gastroenterol. 2011;106(Suppl 1):S2-S25. \n\n13. Rubin DT, Ananthakrishnan AN, Siegel CA, et al. 2019 ACG Clinical Guideline: Ulcerative Colitis in Adults. Am J Gastroenterol. 2019;114:384-413. \n\n14. Singh S, Loftus EV Jr, Limketkai BN, et al. AGA Living Clinical Practice Guideline on Pharmacological Management of Moderate-to-Severe Ulcerative Colitis. Gastroenterology. 2024;167(7):1307-1343. \n\n15. Lichtenstein GR, Loftus EV Jr, Isaacs KI, et al. ACG Clinical Guideline: Management of Crohn’s Disease in Adults. Am J Gastroenterol. 2018;113:481-517. \n\n16. Feuerstein JD, Ho EY, Shmidt E, et al. AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn’s Disease. Gastroenterology. 2021;160: 2496-2508."
+        }
+      ]
+    },
+    "initial_auth_duration": {
+      "value": "Unspecified",
+      "llm_evidence": "[ld-s0022-c00022 | page 2 | lines 117-135 | tags: approval, brand, drug_or_therapy | title: AETNA BETTER HEALTH® Coverage Policy/Guideline]",
+      "llm_reasoning": "The policy does not specify the initial authorization duration for Tremfya in the provided evidence.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        },
+        {
+          "chunk_id": "ld-s0048-c00048",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 325,
+          "end_line": 345,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>7 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n2. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 4: Guidelines of care for the management and treatment of psoriasis with traditional systemic agents. J Am Acad Dermatol. 2009;61:451-485. \n\n3. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 6: Guidelines of care for the treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J Am Acad Dermatol. 2011;65(1):137-174. \n\n4. Reich K, Armstrong, AW, Foley P, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, doubleblind, placebo- and active comparator–controlled VOYAGE 2 trial. Am J Clin Dermatol. 2017;76(3):418-431. \n\n5. Blauvelt A, Papp KA, Griffiths CEM, et al. Efficacy and safety of guselkumab, an anti-interleukin23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. Am J Clin Dermatol. 2017;76(3):405-417. \n\n6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html."
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        }
+      ]
+    },
+    "reauthorization_duration": {
+      "value": "12",
+      "llm_evidence": "[ld-s0043-c00043 | page 5 | lines 301-304 | tags: reauthorization | title: Approval:]\n## **Approval:** Initial and Renewal Approval: 12 months",
+      "llm_reasoning": "The policy explicitly states that initial and renewal approval is granted for 12 months.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0043-c00043",
+          "title": "Approval:",
+          "start_line": 301,
+          "end_line": 304,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## **Approval:** \n\nInitial and Renewal Approval: 12 months"
+        },
+        {
+          "chunk_id": "ld-s0029-c00029",
+          "title": "Continuation of Therapy",
+          "start_line": 173,
+          "end_line": 174,
+          "page_start": 3,
+          "page_end": 3,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## **Continuation of Therapy**"
+        },
+        {
+          "chunk_id": "ld-s0014-c00014",
+          "title": "_Continuation requests_",
+          "start_line": 85,
+          "end_line": 88,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation supporting positive clinical response."
+        }
+      ]
+    },
+    "reauthorization_required": {
+      "value": "Yes",
+      "llm_evidence": "[ld-s0016-c00016 | page 1 | lines 91-94 | tags: reauthorization | title: _Continuation requests_]",
+      "llm_reasoning": "Policy documents reauthorization requirements for continuation of therapy with positive clinical response to therapy or remission.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0029-c00029",
+          "title": "Continuation of Therapy",
+          "start_line": 173,
+          "end_line": 174,
+          "page_start": 3,
+          "page_end": 3,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## **Continuation of Therapy**"
+        },
+        {
+          "chunk_id": "ld-s0014-c00014",
+          "title": "_Continuation requests_",
+          "start_line": 85,
+          "end_line": 88,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation supporting positive clinical response."
+        },
+        {
+          "chunk_id": "ld-s0016-c00016",
+          "title": "_Continuation requests_",
+          "start_line": 91,
+          "end_line": 94,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation supporting positive clinical response to therapy or remission."
+        }
+      ]
+    },
+    "reauthorization_requirements": {
+      "value": "Chart notes or medical record documentation of decreased body surface area (BSA) affected and/or improvement in signs and symptoms.",
+      "llm_evidence": "[ld-s0011-c00011 | page 1 | lines 75-78 | tags: reauthorization | title: _Continuation requests_]",
+      "llm_reasoning": "Continuation requests require chart notes or medical record documentation supporting positive clinical response, positive clinical response to therapy or remission, or decreased body surface area (BSA) affected and/or improvement in signs and symptoms.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0014-c00014",
+          "title": "_Continuation requests_",
+          "start_line": 85,
+          "end_line": 88,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation supporting positive clinical response."
+        },
+        {
+          "chunk_id": "ld-s0016-c00016",
+          "title": "_Continuation requests_",
+          "start_line": 91,
+          "end_line": 94,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation supporting positive clinical response to therapy or remission."
+        },
+        {
+          "chunk_id": "ld-s0011-c00011",
+          "title": "_Continuation requests_",
+          "start_line": 75,
+          "end_line": 78,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## _Continuation requests_ \n\nChart notes or medical record documentation of decreased body surface area (BSA) affected and/or improvement in signs and symptoms."
+        },
+        {
+          "chunk_id": "ld-s0029-c00029",
+          "title": "Continuation of Therapy",
+          "start_line": 173,
+          "end_line": 174,
+          "page_start": 3,
+          "page_end": 3,
+          "tags": [
+            "reauthorization"
+          ],
+          "text": "## **Continuation of Therapy**"
+        }
+      ]
+    },
+    "specialist_types": {
+      "value": "dermatologist; rheumatologist",
+      "llm_evidence": "[ld-s0017-c00017 | page 1 | lines 95-104 | tags: indication | title: Prescriber Specialty:]\n## **Prescriber Specialty:** This medication must be prescribed by or in consultation with one of the following **:** - Plaque psoriasis: dermatologist - Psoriatic arthritis: rheumatologist or dermatologist - Ulcerative colitis and Crohn’s disease: gastroenterologist",
+      "llm_reasoning": "The policy requires the medication to be prescribed by or in consultation with a dermatologist for plaque psoriasis, and either a rheumatologist or dermatologist for psoriatic arthritis.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0017-c00017",
+          "title": "Prescriber Specialty:",
+          "start_line": 95,
+          "end_line": 104,
+          "page_start": 1,
+          "page_end": 1,
+          "tags": [
+            "indication"
+          ],
+          "text": "## **Prescriber Specialty:** \n\nThis medication must be prescribed by or in consultation with one of the following **:** \n\n- Plaque psoriasis: dermatologist \n\n- Psoriatic arthritis: rheumatologist or dermatologist \n\n- Ulcerative colitis and Crohn’s disease: gastroenterologist"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        },
+        {
+          "chunk_id": "ld-s0048-c00048",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 325,
+          "end_line": 345,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>7 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n2. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 4: Guidelines of care for the management and treatment of psoriasis with traditional systemic agents. J Am Acad Dermatol. 2009;61:451-485. \n\n3. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 6: Guidelines of care for the treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J Am Acad Dermatol. 2011;65(1):137-174. \n\n4. Reich K, Armstrong, AW, Foley P, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, doubleblind, placebo- and active comparator–controlled VOYAGE 2 trial. Am J Clin Dermatol. 2017;76(3):418-431. \n\n5. Blauvelt A, Papp KA, Griffiths CEM, et al. Efficacy and safety of guselkumab, an anti-interleukin23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. Am J Clin Dermatol. 2017;76(3):405-417. \n\n6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html."
+        }
+      ]
+    },
+    "quantity_limits": {
+      "value": "1 syringe/injector per 56 days",
+      "llm_evidence": "[ld-s0044-c00044 | page 5 | lines 305-316 | tags: brand, drug_or_therapy, indication | title: Quantity Level Limit: ]",
+      "llm_reasoning": "The policy explicitly states the quantity limit for Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector as 1 syringe/injector per 56 days.",
+      "dependency_context": {},
+      "retrieved_context": [
+        {
+          "chunk_id": "ld-s0037-c00037",
+          "title": "Other[1,7]",
+          "start_line": 254,
+          "end_line": 261,
+          "page_start": 4,
+          "page_end": 4,
+          "tags": [
+            "drug_or_therapy",
+            "safety",
+            "universal"
+          ],
+          "text": "## Other[1,7] \n\nFor all indications: Member has had a documented negative tuberculosis (TB) test (which can include a tuberculosis skin test [TST] or an interferon-release assay [IGRA]) within 12 months of initiating therapy for persons who are naïve to biologic drugs or targeted synthetic drugs associated with an increased risk of TB. \n\nIf the screening testing for TB is positive, there must be further testing to confirm there is no active disease (e.g., chest x-ray). Do not administer the requested medication to members with active TB infection. If there is latent disease, TB treatment must be started before initiation of the requested medication. \n\nFor all indications: Member cannot use the requested medication concomitantly with any other biologic drug or targeted synthetic drug for the same indication."
+        },
+        {
+          "chunk_id": "ld-s0005-c00005",
+          "title": "Documentation for all indications:",
+          "start_line": 36,
+          "end_line": 49,
+          "page_start": null,
+          "page_end": null,
+          "tags": [
+            "drug_or_therapy",
+            "universal"
+          ],
+          "text": "## **Documentation for all indications:** \n\nThe patient is unable to take THREE preferred products, where indicated, for the given diagnosis due to a trial and inadequate treatment response or intolerance, or a contraindication. Documentation is required for approval. THREE preferred products: \n\n- A preferred ustekinumab product \n\n- TWO additional preferred products \n\n   - A preferred adalimumab product OR Enbrel \n\n   - Rinvoq \n\n   - Otezla"
+        },
+        {
+          "chunk_id": "ld-s0044-c00044",
+          "title": "Quantity Level Limit:",
+          "start_line": 305,
+          "end_line": 316,
+          "page_start": 5,
+          "page_end": 5,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication"
+          ],
+          "text": "## **Quantity Level Limit:** \n\n- Tremfya (guselkumab) 100 mg/mL prefilled syringe/One-press injector: `o` 1 syringe/injector per 56 days \n\n   - Exception limit: 2 syringes/injectors per 28 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled syringe/pen: `o` 1 syringe/pen per 28 days `o` Exception limit: 6 syringes/pens per 56 days \n\n- Tremfya (guselkumab) 200 mg/2 mL prefilled pen Induction Pack for Crohn’s Disease: `o` Exception limit: 3 cartons (6 pens) per 56 days \n\n* Coverage up to the exception limits may be provided with prior authorization"
+        },
+        {
+          "chunk_id": "ld-s0048-c00048",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 325,
+          "end_line": 345,
+          "page_start": 6,
+          "page_end": 6,
+          "tags": [
+            "brand",
+            "drug_or_therapy",
+            "indication",
+            "safety"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>7 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n2. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 4: Guidelines of care for the management and treatment of psoriasis with traditional systemic agents. J Am Acad Dermatol. 2009;61:451-485. \n\n3. Menter A, Korman NJ, Elmets CA, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 6: Guidelines of care for the treatment of psoriasis and psoriatic arthritis: case-based presentations and evidence-based conclusions. J Am Acad Dermatol. 2011;65(1):137-174. \n\n4. Reich K, Armstrong, AW, Foley P, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, doubleblind, placebo- and active comparator–controlled VOYAGE 2 trial. Am J Clin Dermatol. 2017;76(3):418-431. \n\n5. Blauvelt A, Papp KA, Griffiths CEM, et al. Efficacy and safety of guselkumab, an anti-interleukin23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. Am J Clin Dermatol. 2017;76(3):405-417. \n\n6. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol. 2019;80(4):1029-1072. \n\n7. Testing for TB Infection. Centers for Disease Control and Prevention. Retrieved on January 22, 2025 from: https://www.cdc.gov/tb/testing/index.html."
+        },
+        {
+          "chunk_id": "ld-s0022-c00022",
+          "title": "AETNA BETTER HEALTH® Coverage Policy/Guideline",
+          "start_line": 117,
+          "end_line": 135,
+          "page_start": 2,
+          "page_end": 2,
+          "tags": [
+            "approval",
+            "brand",
+            "drug_or_therapy"
+          ],
+          "text": "## AETNA BETTER HEALTH® Coverage Policy/Guideline \n\n|Name:|Tremfya||Page:<br>3 of 7|\n|---|---|---|---|\n|Effective|Date:<br>5/1/2025||Last Review Date:<br>4/2025|\n|Applies<br>to:|☐Illinois<br>☐New Jersey<br>☒Pennsylvania Kids|☐Florida<br>☒Maryland<br>☐Virginia|☒Florida Kids<br>☐Michigan<br>☒KentuckyPRMD|\n\n\n\n- Crucial body areas (e.g., hands, feet, face, neck, scalp, genitals/groin, intertriginous areas) are affected. \n\n- At least 10% of body surface area (BSA) is affected. \n\n- At least 3% of body surface area (BSA) is affected and the member meets either of the following criteria: \n\n   - Member has had an inadequate response or intolerance to either phototherapy (e.g., UVB, PUVA) or pharmacologic treatment with methotrexate, cyclosporine, or acitretin. \n\n   - Member has a clinical reason to avoid pharmacologic treatment with methotrexate, cyclosporine, and acitretin (see Appendix)."
+        }
+      ]
+    },
+    "_vocabulary": {
+      "brand_aliases": {
+        "TREMFYA": [
+          "TREMFYA",
+          "guselkumab"
+        ]
+      },
+      "drug_terms": [
+        "PUVA",
+        "systemic therapy",
+        "ustekinumab",
+        "sulfasalazine",
+        "Cyclosporine",
+        "Methotrexate",
+        "guselkumab",
+        "acitretin",
+        "UVB",
+        "Leflunomide",
+        "adalimumab",
+        "phototherapy",
+        "targeted synthetic",
+        "biologic",
+        "Sotyktu",
+        "Otezla",
+        "Rinvoq",
+        "Enbrel"
+      ],
+      "indication_terms": [
+        "moderate to severe psoriasis",
+        "moderate to severe plaque psoriasis",
+        "Psoriasis",
+        "PsO",
+        "Plaque psoriasis",
+        "psoriatic arthritis",
+        "ulcerative colitis",
+        "Crohn’s disease"
+      ],
+      "universal_markers": [
+        "all indications",
+        "for all indications"
+      ]
+    }
+  },
+  "log_file": "C:\\Users\\MD AREEB  AKHTAR\\ADS_HACK\\outputs\\large_doc_extractor\\log_folder\\330109-4880941_TREMFYA.log"
+}
