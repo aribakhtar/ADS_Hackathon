@@ -1,0 +1,6 @@
+pandas==2.3.3
+pymupdf==1.27.2.3
+pymupdf4llm==1.27.2.3
+python-dotenv==1.2.2
+openai==2.38.0
+pydantic==2.13.4
